@@ -107,3 +107,6 @@ function main() {
 }
 
 main();
+
+exports.Stack = Stack;
+exports.NODE = _Node;
